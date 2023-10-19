@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BusinessCardApp</string>
+    <string name="fullName">Jan Halas</string>
+    <string name="title">Full-Stack Mobile Developer</string>
+    <string name="phoneNumber">+358 40 726 7222</string>
+    <string name="socialMediaHandle">"@"vonhalas</string>
+    <string name="emailAddress">jan@janhalas.com</string>
+</resources>
