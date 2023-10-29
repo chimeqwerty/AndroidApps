@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">ImageSpace</string>
+
+    <string name="previousButtonTapDescription">Previous</string>
+    <string name="nextButtonTapDescription">Next</string>
+
+    <string name="btc">Bitcoin</string>
+    <string name="eth">Ethereum</string>
+    <string name="dot">"Polkadot</string>
+    <string name="fil">Filecoin</string>
+    <string name="icp">Internet Computer</string>
+    <string name="ada">Cardano</string>
+    <string name="matic">Polygon</string>
+    <string name="sol">Solana</string>
+
+
+    <string name="btcDescription">"The godfather of crypto" (2009)</string>
+    <string name="ethDescription">"Godfather of DeFi" (2015)</string>
+    <string name="dotDescription">"The blockspace ecosystem for boundless innovation" (2020)</string>
+    <string name="filDescription">"Decentralized Storage Network for data of humans" (2017)</string>
+    <string name="icpDescription">"Cypherspace as cloud" (2017)</string>
+    <string name="adaDescription">"A blockchain platform for changemakers, innovators, and visionaries" (2015)</string>
+    <string name="maticDescription">"The Value Layer of the Internet" (2017)</string>
+    <string name="solDescription">"Powerful for developers. Fast for everyone." (2020)</string>
+
+
+</resources>
