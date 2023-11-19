@@ -1,0 +1,112 @@
+<resources>
+    <string name="app_name">Best recipes book</string>
+
+    /* list of dishes */
+    <string name="dish_1">Paella</string>
+    <string name="dish_2">Ceviche</string>
+    <string name="dish_3">Mangal salad</string>
+    <string name="dish_4">Okroshka</string>
+    <string name="dish_5">Couscous</string>
+    <string name="dish_6">Hummus</string>
+    <string name="dish_7">Pad thai</string>
+    <string name="dish_8">Carelian pastry</string>
+    <string name="dish_9">Beshbarmak</string>
+    <string name="dish_10">Quiche Lorraine (pie)</string>
+    <string name="dish_11">Smørrebrød</string>
+    <string name="dish_12">Sushi</string>
+    <string name="dish_13">Svíčková</string>
+    <string name="dish_14">Chicken tandoori</string>
+    <string name="dish_15">Tiramisu</string>
+    <string name="dish_16">Dolmah</string>
+    <string name="dish_17">Lasagne</string>
+    <string name="dish_18">Gyros</string>
+    <string name="dish_19">Pizza</string>
+    <string name="dish_20">Cuban sandwich</string>
+
+
+
+    /* list of countries */
+    <string name="ES_country">Spain</string>
+    <string name="PERU_country">Peru</string>
+    <string name="FI_country">Finland</string>
+    <string name="FR_country">France</string>
+    <string name="AZ_country">Azerbaijan</string>
+    <string name="MA_country">Morocco</string>
+    <string name="IT_country">Italy</string>
+    <string name="RU_country">Russia</string>
+    <string name="THAI_country">Thailand</string>
+    <string name="UZ_country">Uzbekistan</string>
+    <string name="DK_country">Denmark</string>
+    <string name="UK_country">United Kingdom</string>
+    <string name="JPN_country">Japan</string>
+    <string name="IN_country">India</string>
+    <string name="CZ_country">Czech Republic</string>
+    <string name="ISR_country">Israel</string>
+    <string name="KZ_country">Kazakhstan</string>
+    <string name="GR_country">Greece</string>
+    <string name="CUBA_country">Cuba</string>
+
+    /* names of dishes */
+
+
+    <string name="dish_description_1">A rice dish with a variety of ingredients such as seafood, chicken, rabbit, and beans, flavored with saffron and other seasonings.</string>
+    <string name="dish_description_2">Seafood cured in citrus juices, typically lemon or lime, and spiced with chili peppers.</string>
+    <string name="dish_description_3">Consists of eggplants, tomatoes, bell peppers, hot peppers, and onions. The vegetables are traditionally grilled on skewers on a mangal</string>
+    <string name="dish_description_4">Okróshka is a cold soup of Russian origin, which probably originated in the Volga region. The classic soup is a mix of mostly raw vegetables, boiled potatoes, eggs, cooked meat such as beef, veal, sausages or ham and kvass, which is a low-alcoholic beverage made from fermented black or rye bread.</string>
+    <string name="dish_description_5">Steamed balls of crushed wheat, often served with stewed meat and vegetables.</string>
+    <string name="dish_description_6">Stir-fried rice noodles with eggs, tofu or shrimp, peanuts, lime, and chili.</string>
+    <string name="dish_description_7">A spread made from cooked, mashed chickpeas or other beans, blended with tahini, olive oil, lemon juice, salt, and garlic.</string>
+    <string name="dish_description_8">The karjalanpiirakka is a small, open, filled pastry with a thin, crispy crust</string>
+    <string name="dish_description_9">Beshbarmak is a traditional Kazakhstan dish made with tender lamb and a flavorful onion broth served over a bed of noodles.</string>
+    <string name="dish_description_10">Quiche Lorraine is a combination of a delicious flaky Pie Crust that is filled with savory egg custard. Bacon, cheese, caramelized onions, and other fillings can take this quiche recipe from ordinary to extraordinary.</string>
+    <string name="dish_description_11">Open-faced sandwiches with various toppings like herring, salmon, and cold cuts.</string>
+    <string name="dish_description_12">Vinegared rice combined with various ingredients such as seafood, vegetables, and occasionally tropical fruits.</string>
+    <string name="dish_description_13">Svíčková is traditionally served with the famous soft Czech bread dumplings, a slightly tart cranberry sauce, a dollop of whipped cream, and a slice of lemon.</string>
+    <string name="dish_description_14">Chicken marinated in a mixture of yogurt and spices, then roasted or grilled.</string>
+    <string name="dish_description_15">Tiramisu is a coffee-flavoured Italian dessert. It is made of ladyfingers dipped in coffee, layered with a whipped mixture of eggs, sugar and mascarpone, flavoured with cocoa.</string>
+    <string name="dish_description_16">Dolma is an Azerbaijani dish made by stuffing grape leaves with lamb meat, rice, onion, and herbs like mint, dill, and cilantro.</string>
+    <string name="dish_description_17">Layers of flat pasta, ricotta cheese, meat sauce, and melted cheese.</string>
+    <string name="dish_description_18">Meat, usually beef, lamb, or chicken, cooked on a vertical rotisserie and served in a flatbread with tomato, onion, and tzatziki sauce.</string>
+    <string name="dish_description_19">A flatbread topped with tomato sauce, cheese, and various toppings.</string>
+    <string name="dish_description_20">A pressed sandwich made with ham, roasted pork, Swiss cheese, pickles, mustard, and sometimes salami on Cuban bread.</string>
+
+
+
+
+    /* list of days */
+    <string name="day1">Day 1</string>
+    <string name="day2">Day 2</string>
+    <string name="day3">Day 3</string>
+    <string name="day4">Day 4</string>
+    <string name="day5">Day 5</string>
+    <string name="day6">Day 6</string>
+    <string name="day7">Day 7</string>
+    <string name="day8">Day 8</string>
+    <string name="day9">Day 9</string>
+    <string name="day10">Day 10</string>
+    <string name="day11">Day 11</string>
+    <string name="day12">Day 12</string>
+    <string name="day13">Day 13</string>
+    <string name="day14">Day 14</string>
+    <string name="day15">Day 15</string>
+    <string name="day16">Day 16</string>
+    <string name="day17">Day 17</string>
+    <string name="day18">Day 18</string>
+    <string name="day19">Day 19</string>
+    <string name="day20">Day 20</string>
+    <string name="day21">Day 21</string>
+    <string name="day22">Day 22</string>
+    <string name="day23">Day 23</string>
+    <string name="day24">Day 24</string>
+    <string name="day25">Day 25</string>
+    <string name="day26">Day 26</string>
+    <string name="day27">Day 27</string>
+    <string name="day28">Day 28</string>
+    <string name="day29">Day 29</string>
+    <string name="day30">Day 30</string>
+
+
+
+
+
+</resources>
